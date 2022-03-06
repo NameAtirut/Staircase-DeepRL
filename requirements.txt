@@ -1,0 +1,6 @@
+numpy
+random
+tensorflow==2.3.0
+gym
+keras
+keras-rl2
